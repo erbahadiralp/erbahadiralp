@@ -59,11 +59,6 @@
 
 ---
 
-### 📜 Certifications / Sertifikalar
-
-- 🏅 [Introduction to Data Engineering — IBM](https://bahadiralper.com)
-
----
 
 ### 🚀 Projects / Projeler
 
@@ -77,4 +72,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/erbahadiralp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0e11?style=flat-square&logo=googlechrome&logoColor=4A9EFF)](https://bahadiralper.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bahadir.alp.er@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bahadiralper03@gmail.com)
